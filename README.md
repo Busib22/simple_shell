@@ -1,2 +1,2 @@
 simple shell project
-by Busi and Medinatu
+by Bbusi and Medinat
