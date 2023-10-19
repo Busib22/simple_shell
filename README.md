@@ -1,2 +1,2 @@
 simple shell project
-by Busi Buthelezi and Medinatu Ali
+by Busi Buthelezi and Medinatu Ali.
