@@ -2,9 +2,9 @@
 
 /**
  * _pelog - yoruba word for calllog
- * @berray: betty array
+ * @berray: betty array (nice)
  * @gbangban: shoe ghangban
- * Return: betty and kimber
+ * Return: betty only
  */
 
 void *_pelog(unsigned int berray, unsigned int gbangban)
