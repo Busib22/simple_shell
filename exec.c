@@ -6,7 +6,7 @@
  */
 int killem(char **args)
 {
-	int dodo = fuck(), status;
+	int dodo = fork(), status;
 
 	if (dodo == 0)
 	{
