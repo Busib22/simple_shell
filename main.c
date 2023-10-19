@@ -4,7 +4,15 @@
  * main - where to open the gate of shell
  * Return: then close the gate of shell
  */
+int main(void)
+{
+	char *lubbf_F = NULL, **args;
+	size_t read_size = 0;
+	ssize_t buff_size = 0;
+	int exit_status = 0;
 
+	while (1)
+	{
 
 		if (isatty(0))
 			printf("busi$ ");
