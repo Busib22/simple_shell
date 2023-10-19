@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- *_env - sanitational environmantal variable
+ *_env - envioronmental saitation variables
 */
+
 void _env(void)
 {
 	int k = 0;
