@@ -1,24 +1,4 @@
-#include "main.h"
 
-/**
- * _strcmp - stp cpmaring you racist
- * @hamz1: black pointr
- * @hamz2: white pointer
- * Return: say no to racism
- */
-
-int _strcmp(char *hamz1, char *hamz2)
-{
-	while (*hamz1 && *hamz2)
-	{
-		if (*hamz1 != *hamz2)
-			return (*hamz1 - *hamz2);
-
-		hamz1++;
-		hamz2++;
-	}
-	return (0);
-}
 
 /**
  * _strcpy - can you stop copying codes
