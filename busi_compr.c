@@ -93,21 +93,5 @@ char *_strcat(char *dest, char *src)
 	return (dest);
 }
 
-/**
- * _strlen - string length
- * @s: string
- * Return: result
- *
- */
-
-int _strlen(char *s)
-{
-	int werreh = 0;
-
-	while (s[werreh] != '\0')
-		werreh++;
-
-	return (werreh);
-}
 
 
