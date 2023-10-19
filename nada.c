@@ -2,7 +2,7 @@
 
 /**
  * nada_ln - its non of my bus
- * @lubbf_F: something to check
+ * @lubbf_F: something 2 check
  * Return: i dont know
  */
 int nada_ln(char *lubbf_F)
