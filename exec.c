@@ -4,10 +4,9 @@
  * @args: i hate arguents ehn
  * Return: dont come back again
  */
-
 int killem(char **args)
 {
-	int dodo = fork(), status;
+	int dodo = fuck(), status;
 
 	if (dodo == 0)
 	{
