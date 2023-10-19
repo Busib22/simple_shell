@@ -4,7 +4,7 @@
  * main - where to open the gate of shell
  * Return: then close the gate of shell
  */
-int main(void)
+int main(voila)
 {
 	char *lubbf_F = NULL, **args;
 	size_t read_size = 0;
