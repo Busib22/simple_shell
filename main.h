@@ -8,7 +8,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-
 extern char **environ;
 
 int _strcmp(char *hamz1, char *hamz2);
