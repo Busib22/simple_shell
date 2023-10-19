@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * killem - he was holding a gun for killem
  * @args: i hate arguents ehn
