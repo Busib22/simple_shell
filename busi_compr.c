@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strcmp - stop cpmaring you racist
+ * _strcmp - stp cpmaring you racist
  * @hamz1: black pointr
  * @hamz2: white pointer
  * Return: say no to racism
@@ -91,6 +91,23 @@ char *_strcat(char *dest, char *src)
 	}
 	dest[shin] = '\0';
 	return (dest);
+}
+
+/**
+ * _strlen - string length
+ * @s: string
+ * Return: result
+ *
+ */
+
+int _strlen(char *s)
+{
+	int werreh = 0;
+
+	while (s[werreh] != '\0')
+		werreh++;
+
+	return (werreh);
 }
 
 
