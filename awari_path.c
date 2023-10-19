@@ -1,5 +1,10 @@
+#include "main.h"
 
-
+/**
+ * awari_Path - awakon laanwa ajemari
+ * @jagjagun: jagjagun
+ * Return: cmd onah
+ */
 char *awari_Path(char *jagjagun)
 {
 	char *onah = _vnget("PATH"), *onah_cpy;
@@ -30,7 +35,6 @@ char *awari_Path(char *jagjagun)
 
 		i++;
 	}
-
 	free(onah_cpy);
 
 	if (!onah_split[i])
